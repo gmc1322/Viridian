@@ -1,2 +1,2 @@
 # Viridian
-Junior team project
+DigiPen junior team project
